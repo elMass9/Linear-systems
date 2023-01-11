@@ -1,0 +1,4 @@
+                            SPEED   STRENGTH   ENDURANCE   COURAGE   POWER
+    Trekker Tirent (SPORT)     80      50         50          20        12
+    Dodgy Dan (JOL)            04      20         69          66        04
+    Fat Frank (EAT)            10      80         15          60        55

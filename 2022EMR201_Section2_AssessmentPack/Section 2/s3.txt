@@ -1,0 +1,5 @@
+MAGICAL        SPEED   STRENGTH   ENDURANCE   COURAGE   POWER  MISHKA
+    BASE (UP)      60      40         30          30        75        
+    LC (SPORT)     80      50         20          50        70
+    STRIP (JOL)    70      60         10          50        90
+    FAUZI (EAT)    55      80         60          10        20

@@ -1,0 +1,5 @@
+ FAST           SPEED   STRENGTH   ENDURANCE   COURAGE   POWER  FRIKKIE
+    BASE (UP)      85      70         70          10        10        
+    LC (SPORT)     90      75         72          5         20
+    STRIP (JOL)    75      65         30          80        10
+    FAUZI (EAT)    63      80         60          10        20

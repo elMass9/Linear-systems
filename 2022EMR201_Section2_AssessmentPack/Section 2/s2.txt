@@ -1,0 +1,5 @@
+WEAPONSMITH    SPEED   STRENGTH   ENDURANCE   COURAGE   POWER  WANDILE
+    BASE (UP)      10      30         10          80        90        
+    LC (SPORT)     12      45         12          75        90
+    STRIP (JOL)    30      25         08          95        45
+    FAUZI (EAT)    90      32         20          80        80
